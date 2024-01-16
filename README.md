@@ -9,7 +9,17 @@ Here are some projects I worked on.
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg' width='32'>
 </div>
 
-Github repo : <a href="https://github.com/Lucccyo/Tedium">Lucccyo/Tedium</a>
+<br/>
+
+A dungeon roguelike game developed in C and the SDL2 graphical library. <br/>
+In this project, I mainly took care of displaying the GUI elements properly, effectively creating a small library responsible for loading, making buttons and other UI elements responsive and functionnals, as well as unload them properly when the program ends.
+<br/>
+
+<img src="./assets/images/tedium_menu.png" style="width: 40%; height: auto;">
+<img src="./assets/images/tedium_1.png" style="width: 40%; height: auto;">
+<img src="./assets/images/tedium_2.png" style="width: 40%; height: auto;">
+
+Github repo : <a href="https://github.com/Lucccyo/Tedium">Lucccyo/Tedium</a> <br/> <br/>
 
 ## Boite ITE
 <div style="display: flex; flex-direction: row;">
@@ -22,9 +32,11 @@ Github repo : <a href="https://github.com/Lucccyo/Tedium">Lucccyo/Tedium</a>
 
 Smart Box that tracks a room's quality. Each sample cycle, the box reads sensors values for CO2 level, temperature, humidity, noise, brightness and sends the data to a webserver hosted on a raspberry PI. The data gets then displayed on a custom modular web interface.
 
+<img src="./assets/images/boite_ite.png" style="width: 100%; height: auto;"> <br/>
+
 The box itself contains an ESP32, various sensors and a battery pack. The ESP32 communicates to a raspberry PI with MQTT. On the raspberry PI is hosted a web interface that displays all the data from the box in a user friendly way.
 
-Github repo : <a href="https://github.com/LouisLecouturier/Boite-ITE">LouisLecouturier/Boite-ITE</a>
+Github repo : <a href="https://github.com/LouisLecouturier/Boite-ITE">LouisLecouturier/Boite-ITE</a> <br/> <br/>
 
 
 ## Wordle Clone
@@ -33,9 +45,14 @@ Github repo : <a href="https://github.com/LouisLecouturier/Boite-ITE">LouisLecou
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width='32'>
 </div>
 
-Recreation of the word guessing game Wordle.
+<br/>
 
-Github repo : <a href="https://github.com/Kotalos/WordleClone">Kotalos/WordleClone</a>
+Recreation of the word guessing game Wordle. <br/>
+With this project, I discovered and learnt the basics of frontend web development with the React framework.
+
+<img src="./assets/images/wordle.png" style="width: 100%; height: auto;"> <br/>
+
+Github repo : <a href="https://github.com/Kotalos/WordleClone">Kotalos/WordleClone</a> <br/> <br/>
 
 
 ## Rubik's Cube’s Image Recognition
