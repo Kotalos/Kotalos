@@ -101,8 +101,10 @@ A classic pong game displayed on a handcrafted led matrix where you control the 
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width='32'>
 </div> <br/>
 
-
-<br/><br/>
+At Reyouzz, I’ve gained nearly two years of practical experience in software engineering. 
+This includes software architecture, database conception, knowledge of design patterns, frontend and backend web development as well as proficiency with tools such the Django and Nuxt web frameworks, Git and Docker. 
+As a soon to be engineer, I’ve learnt not to limit myself to a single language, and to be able to extract and learn the core concepts of a software application. Therefore, I am flexible and I know how to work my way around various languages, like Python, Javascript, Lua, C, Java… .
+<br/>
 
 # Video game development :
 
