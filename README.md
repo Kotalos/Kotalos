@@ -38,8 +38,12 @@ Github repo : <a href="https://github.com/Lucccyo/Tedium">Lucccyo/Tedium</a> <br
 Smart Box that tracks a room's quality. Each sample cycle, the box reads sensors values for CO2 level, temperature, humidity, noise, brightness and sends the data to a webserver hosted on a raspberry PI. The data gets then displayed on a custom modular web interface.
 
 <img src="./assets/images/boite_ite.png" style="width: 100%; height: auto;"> <br/>
+*Device design by [drapsagt](https://github.com/drapsagt)* <br/>
 
 The box itself contains an ESP32, various sensors and a battery pack. The ESP32 communicates to a raspberry PI with MQTT. On the raspberry PI is hosted a web interface that displays all the data from the box in a user friendly way.
+
+<img src="./assets/images/boite_interface.png" style="width: 75%; height: auto;"> <br/>
+*UI design by [LouisLecouturier](https://github.com/LouisLecouturier)*
 
 Github repo : <a href="https://github.com/LouisLecouturier/Boite-ITE">LouisLecouturier/Boite-ITE</a> <br/> <br/>
 
