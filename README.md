@@ -52,26 +52,21 @@ Rubik's cube faces configuration reader using python and OpenCV. The goal is to 
 A classic pong game displayed on a handcrafted led matrix where you control the player's platform with the position of your hand (in front of an infrared sensor).
 
 
-## And work experience at [Reyouzz](https://reyouzz.fr/) with :
+# Work experience at [Reyouzz](https://www.linkedin.com/company/reyouzz/mycompany/) with :
 <div style="display: flex; flex-direction: row;">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='32'>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' width='32'>
-</div>
-<div style="display: flex; flex-direction: row;">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='32'>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg' width='32'>
-</div>
-<div style="display: flex; flex-direction: row;">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' width='32'>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width='32'>
-  
 </div>
 
-## And video game development experience with :
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Roblox_Logo.svg/512px-Roblox_Logo.svg.png?20220929193725' width='32'>
+# Video game development :
+I have almost four years of game development and project management experience on the [Roblox](https://www.linkedin.com/company/roblox/) platform.
 
-<!--
-![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg =40x40)![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg =40x40)![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =40x40)![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg =40x40)![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg =40x40)![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg =40x40)![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg =40x40)![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg =40x40)![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg =40x40)![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg =40x40)![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg =40x40)![python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg =40x40)
+### Some experiences I worked on :
+
 
 <!--
 **Kotalos/Kotalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
