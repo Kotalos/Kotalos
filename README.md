@@ -84,6 +84,12 @@ Rubik's cube faces configuration reader using python and OpenCV. The goal is to 
 
 A classic pong game displayed on a handcrafted led matrix where you control the player's platform with the position of your hand (in front of an infrared sensor).
 
+<div style="display: flex; flex-direction: row; gap: 16px;">
+<img src="./assets/images/fighter_proto.png" style="width: 40%; height: auto;">
+<img src="./assets/images/fighter_big.png" style="width: 40%; height: auto;">
+<img src="./assets/images/fighter_demo.png" style="width: 40%; height: auto;">
+</div> <br/><br/>
+
 # Work experience at [Reyouzz](https://www.linkedin.com/company/reyouzz/mycompany/) with :
 
 <div style="display: flex; flex-direction: row;">
@@ -93,13 +99,17 @@ A classic pong game displayed on a handcrafted led matrix where you control the 
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg' width='32'>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg' width='32'>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width='32'>
-</div>
+</div> <br/>
+
+
+<br/><br/>
 
 # Video game development :
 
-I have almost four years of game development and project management experience on the [Roblox](https://www.linkedin.com/company/roblox/) platform.
+I have almost four years of game development and project management experience on the [Roblox](https://www.linkedin.com/company/roblox/) platform. 
+<br/>
 
-### Some experiences I worked on :
+## Some experiences I worked on :
 
 <!--
 **Kotalos/Kotalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
