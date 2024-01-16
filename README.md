@@ -111,6 +111,41 @@ I have almost four years of game development and project management experience o
 
 ## Some experiences I worked on :
 
+### Evil Principal
+We developped this parcour/story type game as a small team (3 devs). The goal is to venture around 20 exciting levels consisting of puzzle, traps and cinematics, to escape detention.
+
+In this project, I was responsible for backend scripting, player data handling loading and saving, implementing the various game mechanics, coding the game loop and coding the UI interactions. 
+
+The game is still running on the platform and has accumulated about 5M+ visits from players all around the world.
+<div style="display: flex; flex-direction: row; gap: 16px">
+<img src="./assets/images/escape_icon.png" style="width: 32.5%; height: auto; object-fit: contain;">
+ <img src="./assets/images/principal_menu.PNG" style="width: 65%; height: auto; object-fit: contain;"> 
+</div> <br/>
+  <img src="./assets/images/escape_gallery.PNG" style="width: 100%; height: auto; object-fit: contain;">
+
+**Roblox game link:** [Evil Principal](https://www.roblox.com/games/11442350668/ESCAPE-EVIL-PRINCIPAL-OBBY)
+
+### Legends Reborn
+In this open-world pokémon-like game, you are free to explore the 15+ biomes, and capture more than 175+ original monsters. Talk to NPCs to complete quests, duel with your friends and other players, and take part in the seasonal events.
+
+In this project, I was responsible for backend scripting as well. Player data handling loading and saving, implementing the various game mechanics, coding the game loop and coding the UI interactions. <br /> 
+Opposite to the other games I had worked on so far, this game had an existing codebase I, and the other scripter, had to completely overhaul and improve. The extra challenge was also to keep the game running at the same time, provide consistent updates and not lose player data. <br />
+
+Another task I had was to imrove gameplay performance for lower-end devices.
+
+<img src="./assets/images/legends_optimisation.png" style="width: 100%; height: auto;"> <br/>
+
+We were stuggling with lag and framerate drops for the longest time, and after some research, I was able to fix most of the obvious memory leaks and bad practices. This lead to a considerable improvement in how the game is running, allowing more players to join and enjoy the game.
+
+We are still actively updating the game, which has now about 1.5M+ visits.
+<div style="display: flex; flex-direction: row; gap: 16px">
+ <img src="./assets/images/legends_logo.png" style="width: 30%; height: auto;"> 
+ <img src="./assets/images/legends_map.png" style="width: 60%; height: auto;"> 
+</div> <br/>
+<img src="./assets/images/legends_creatures.png" style="width: 90%; height: auto;">
+
+**Roblox game link:** [Legends Reborn](https://www.roblox.com/games/9683278586/2x-Legends-Reborn)
+
 <!--
 **Kotalos/Kotalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
