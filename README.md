@@ -1,4 +1,5 @@
 ### Hi there 👋
+Here are some projects I worked on.
 
 # My Projects
 
