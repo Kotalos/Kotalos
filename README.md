@@ -1,9 +1,11 @@
 ### Hi there 👋
+
 Here are some projects I worked on.
 
 # My Projects
 
 ## Tedium
+
 <div style="display: flex; flex-direction: row;">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' width='32'>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg' width='32'>
@@ -15,13 +17,16 @@ A dungeon roguelike game developed in C and the SDL2 graphical library. <br/>
 In this project, I mainly took care of displaying the GUI elements properly, effectively creating a small library responsible for loading, making buttons and other UI elements responsive and functionnals, as well as unload them properly when the program ends.
 <br/>
 
+<div style="display: flex; flex-direction: row;">
 <img src="./assets/images/tedium_menu.png" style="width: 40%; height: auto;">
 <img src="./assets/images/tedium_1.png" style="width: 40%; height: auto;">
 <img src="./assets/images/tedium_2.png" style="width: 40%; height: auto;">
+</div>
 
 Github repo : <a href="https://github.com/Lucccyo/Tedium">Lucccyo/Tedium</a> <br/> <br/>
 
 ## Boite ITE
+
 <div style="display: flex; flex-direction: row;">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='32'>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' width='32'>
@@ -38,8 +43,8 @@ The box itself contains an ESP32, various sensors and a battery pack. The ESP32 
 
 Github repo : <a href="https://github.com/LouisLecouturier/Boite-ITE">LouisLecouturier/Boite-ITE</a> <br/> <br/>
 
-
 ## Wordle Clone
+
 <div style="display: flex; flex-direction: row;">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='32'>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width='32'>
@@ -54,8 +59,8 @@ With this project, I discovered and learnt the basics of frontend web developmen
 
 Github repo : <a href="https://github.com/Kotalos/WordleClone">Kotalos/WordleClone</a> <br/> <br/>
 
-
 ## Rubik's Cube’s Image Recognition
+
 <div style="display: flex; flex-direction: row;">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='32'>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg' width='32'>
@@ -63,13 +68,13 @@ Github repo : <a href="https://github.com/Kotalos/WordleClone">Kotalos/WordleClo
 
 Rubik's cube faces configuration reader using python and OpenCV. The goal is to use this module to then solve the cube using robot arms.
 
-
 ## Light Fighter - School Project
+
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg' width='32'>
 A classic pong game displayed on a handcrafted led matrix where you control the player's platform with the position of your hand (in front of an infrared sensor).
 
-
 # Work experience at [Reyouzz](https://www.linkedin.com/company/reyouzz/mycompany/) with :
+
 <div style="display: flex; flex-direction: row;">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='32'>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' width='32'>
@@ -80,10 +85,10 @@ A classic pong game displayed on a handcrafted led matrix where you control the 
 </div>
 
 # Video game development :
+
 I have almost four years of game development and project management experience on the [Roblox](https://www.linkedin.com/company/roblox/) platform.
 
 ### Some experiences I worked on :
-
 
 <!--
 **Kotalos/Kotalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
