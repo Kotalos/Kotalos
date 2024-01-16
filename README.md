@@ -104,7 +104,7 @@ A classic pong game displayed on a handcrafted led matrix where you control the 
 At Reyouzz, I’ve gained nearly two years of practical experience in software engineering. 
 This includes software architecture, database conception, knowledge of design patterns, frontend and backend web development as well as proficiency with tools such the Django and Nuxt web frameworks, Git and Docker. 
 As a soon to be engineer, I’ve learnt not to limit myself to a single language, and to be able to extract and learn the core concepts of a software application. Therefore, I am flexible and I know how to work my way around various languages, like Python, Javascript, Lua, C, Java… .
-<br/>
+<br/> <br/>
 
 # Video game development :
 
@@ -126,6 +126,7 @@ The game is still running on the platform and has accumulated about 5M+ visits f
   <img src="./assets/images/escape_gallery.PNG" style="width: 100%; height: auto; object-fit: contain;">
 
 **Roblox game link:** [Evil Principal](https://www.roblox.com/games/11442350668/ESCAPE-EVIL-PRINCIPAL-OBBY)
+<br/>
 
 ### Legends Reborn
 In this open-world pokémon-like game, you are free to explore the 15+ biomes, and capture more than 175+ original monsters. Talk to NPCs to complete quests, duel with your friends and other players, and take part in the seasonal events.
