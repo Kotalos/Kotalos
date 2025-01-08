@@ -49,22 +49,6 @@ The box itself contains an ESP32, various sensors and a battery pack. The ESP32 
 
 **Github repo :** <a href="https://github.com/LouisLecouturier/Boite-ITE">LouisLecouturier/Boite-ITE</a> <br/> <br/>
 
-## Wordle Clone
-
-<div style="display: flex; flex-direction: row;">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width='32'>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width='32'>
-</div>
-
-<br/>
-
-Recreation of the word guessing game Wordle.
-With this project, I discovered and learnt the basics of frontend web development with the React framework.
-
-<img src="./assets/images/wordle.png" style="width: 100%; height: auto;"> <br/>
-
-**Github repo :** <a href="https://github.com/Kotalos/WordleClone">Kotalos/WordleClone</a> <br/> <br/>
-
 ## Rubik's Cube’s Image Recognition
 <div style="display: flex; flex-direction: row;">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width='32'>
